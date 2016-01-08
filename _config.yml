@@ -30,13 +30,14 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Author's home: "http://abhijeetpaul.github.io"
-  
+  nanoHUB developer page: "https://nanohub.org/members/15437"
+  PhD work page: "https://engineering.purdue.edu/gekcogrp/research-group/AbhijeetPaul/"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Abhijeet Paul
   email: "abhijeet.ramal@gmail.com"
   facebook: abhijeet paul  # eg. daattali
   github: abhijeetpaul    # eg. daattali
